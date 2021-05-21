@@ -1,0 +1,20 @@
+.header{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: #1e90ff !important;
+  z-index: 11;
+  margin-bottom: 20px;
+}
+.brand, .hide{
+  color: #fff !important;
+}
+.btn-hide{
+  background: #1e90ff;
+  color: #fff;
+}
+.btn-hide:hover{
+  background: red;
+  color: #fff;
+}

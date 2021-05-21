@@ -1,0 +1,15 @@
+.card{
+  position: fixed;
+  left: 5;
+  top: 30;
+  width: 100%;
+  box-sizing: border-box;
+  border: none !important;
+  height: 100vh;
+}
+.list{
+  border: none !important;
+}
+Link:hover{
+  text-decoration: none !important;
+}

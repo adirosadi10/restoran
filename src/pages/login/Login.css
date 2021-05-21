@@ -1,0 +1,14 @@
+#login{
+  width: auto;
+  height: 100vh;
+}
+.form {
+  margin-Top : 100px;
+  border : solid 1px #000;
+  padding: 15px;
+  border-radius: 5px;
+}
+.form h2{
+  text-align: center;
+  margin-bottom: 50px;
+}
